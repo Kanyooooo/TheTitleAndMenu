@@ -1,4 +1,4 @@
-# 标题栏部分*(TheTitleAndMenu)* \n 说明文档
+# 标题栏部分*(TheTitleAndMenu)*说明文档
 
 $$
 *kanyooooo*
